@@ -1,0 +1,51 @@
+.main {
+    display: flex;
+    overflow: auto;
+    height: 100vh;
+  }
+  
+  .col1 {
+    width: 20%;
+    padding: 20px;
+    border-right: 0.1pt solid rgb(171, 248, 156);
+    overflow: auto;
+  }
+  
+  .col2 {
+    width: 20%;
+    padding: 20px;
+    border-right: 0.1pt solid rgb(171, 248, 156);
+    overflow: auto;
+  }
+  
+  .col3 {
+    width: 20%;
+    padding: 20px;
+    border-right: 0.1pt solid rgb(171, 248, 156);
+    overflow: auto;
+  }
+  
+  .col4 {
+    width: 20%;
+    padding: 20px;
+    border-right: 0.1pt solid rgb(171, 248, 156);
+    overflow: auto;
+  }
+  
+  .col5 {
+    width: 20%;
+    padding: 20px;
+    border-right: 0.1pt solid rgb(171, 248, 156);
+    overflow: auto;
+    height: 100vh;
+  }
+  
+  .input {
+    margin-top: 10px;
+    height: 80vh;
+  }
+  
+  .draggable {
+    margin-top: 7px;
+  }
+  
